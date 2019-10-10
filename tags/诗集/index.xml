@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>诗集 on Undr22</title>
+    <link>https://undr22.github.io/tags/%E8%AF%97%E9%9B%86/</link>
+    <description>Recent content in 诗集 on Undr22</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 15:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/tags/%E8%AF%97%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>天上谣</title>
+      <link>https://undr22.github.io/posts/poetry-beyond/</link>
+      <pubDate>Wed, 29 Nov 2017 15:55:00 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/poetry-beyond/</guid>
+      <description>前言 本诗集旨在收录艺术水平较高、技巧性更强的唐代诗歌以供人阅，较之孩子们诵读的经典必定更需要仔细品读，选本辑所录第一首诗的题目《天上谣》作为</description>
+    </item>
+    
+  </channel>
+</rss>

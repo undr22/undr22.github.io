@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>漫画 on Undr22</title>
+    <link>https://undr22.github.io/tags/%E6%BC%AB%E7%94%BB/</link>
+    <description>Recent content in 漫画 on Undr22</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 08 Sep 2019 23:22:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/tags/%E6%BC%AB%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>漫画知识扫盲</title>
+      <link>https://undr22.github.io/posts/about-manga/</link>
+      <pubDate>Sun, 08 Sep 2019 23:22:00 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/about-manga/</guid>
+      <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。 产生这个想法的原因是最近看了很多优秀的博客，有很多博主专业性很强又</description>
+    </item>
+    
+  </channel>
+</rss>
