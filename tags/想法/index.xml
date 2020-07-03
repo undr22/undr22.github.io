@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>想法 on Undr22</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 29 Oct 2017 22:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 16:50:38 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/tags/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>噪声</title>
+      <link>https://undr22.github.io/posts/noise/</link>
+      <pubDate>Tue, 14 Jan 2020 16:50:38 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/noise/</guid>
+      <description>2015 年 12 月 13 日，我在大街上散步，一边哼着乱七八糟的歌。这时一列声音极大的车队驶过去，我也不自觉地把唱歌的声音调高了一点，然后在备忘录上写下：「</description>
+    </item>
     
     <item>
       <title>海市蜃楼与终极问题</title>

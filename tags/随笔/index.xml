@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>随笔 on Undr22</title>
@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 16 Nov 2018 13:13:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 00:28:49 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>好事多磨</title>
+      <link>https://undr22.github.io/posts/trough/</link>
+      <pubDate>Sat, 04 Jul 2020 00:28:49 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/trough/</guid>
+      <description>久违地安静下来之后，连我自己都不得不感叹——原来我是一个这样细腻的人啊。 我想得总是太多，连根本不会发生的对话都要做好几种假设，我很累了，我想</description>
+    </item>
+    
+    <item>
+      <title>噪声</title>
+      <link>https://undr22.github.io/posts/noise/</link>
+      <pubDate>Tue, 14 Jan 2020 16:50:38 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/noise/</guid>
+      <description>2015 年 12 月 13 日，我在大街上散步，一边哼着乱七八糟的歌。这时一列声音极大的车队驶过去，我也不自觉地把唱歌的声音调高了一点，然后在备忘录上写下：「</description>
+    </item>
+    
+    <item>
+      <title>单程票</title>
+      <link>https://undr22.github.io/posts/one-way-ticket/</link>
+      <pubDate>Sun, 25 Aug 2019 01:03:00 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/one-way-ticket/</guid>
+      <description>穿过森林后，我看到了海。 是在远处不断升起的海，甚至成为了月亮的背景。如同发酵过般的乳黄色的月光洒向海面。有一些纤细的鸟类啄食着，它们的羽毛也</description>
+    </item>
     
     <item>
       <title>再开</title>
@@ -73,15 +100,6 @@
       
       <guid>https://undr22.github.io/posts/1200-days-in-qin-and-innervate/</guid>
       <description>本来「秦皇岛一千二百天」和「激活」我打算写两篇的，后来想一想也没什么好写，而且这样把题目捏在一起很好玩的样子，就决定这样合成一篇了…… 秦皇岛</description>
-    </item>
-    
-    <item>
-      <title>第十二天胡乱写</title>
-      <link>https://undr22.github.io/posts/the-12th-day/</link>
-      <pubDate>Sat, 10 Jun 2017 12:17:00 +0800</pubDate>
-      
-      <guid>https://undr22.github.io/posts/the-12th-day/</guid>
-      <description>其实我也不知道是多少天，刚才去日历里数了一下好像是第十二天…… 那这样的话就是和上次隔了十天，这十天里发生了很多事，但是没记住多少，总的来说就</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undr22</title>
@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 10 Oct 2019 17:22:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 00:28:49 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>好事多磨</title>
+      <link>https://undr22.github.io/posts/trough/</link>
+      <pubDate>Sat, 04 Jul 2020 00:28:49 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/trough/</guid>
+      <description>久违地安静下来之后，连我自己都不得不感叹——原来我是一个这样细腻的人啊。 我想得总是太多，连根本不会发生的对话都要做好几种假设，我很累了，我想</description>
+    </item>
+    
+    <item>
+      <title>噪声</title>
+      <link>https://undr22.github.io/posts/noise/</link>
+      <pubDate>Tue, 14 Jan 2020 16:50:38 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/noise/</guid>
+      <description>2015 年 12 月 13 日，我在大街上散步，一边哼着乱七八糟的歌。这时一列声音极大的车队驶过去，我也不自觉地把唱歌的声音调高了一点，然后在备忘录上写下：「</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -28,6 +46,15 @@
       
       <guid>https://undr22.github.io/posts/about-manga/</guid>
       <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。 产生这个想法的原因是最近看了很多优秀的博客，有很多博主专业性很强又</description>
+    </item>
+    
+    <item>
+      <title>单程票</title>
+      <link>https://undr22.github.io/posts/one-way-ticket/</link>
+      <pubDate>Sun, 25 Aug 2019 01:03:00 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/one-way-ticket/</guid>
+      <description>穿过森林后，我看到了海。 是在远处不断升起的海，甚至成为了月亮的背景。如同发酵过般的乳黄色的月光洒向海面。有一些纤细的鸟类啄食着，它们的羽毛也</description>
     </item>
     
     <item>
@@ -73,33 +100,6 @@
       
       <guid>https://undr22.github.io/posts/chronic-death-of-an-introverted-man/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>追求</title>
-      <link>https://undr22.github.io/posts/quarry/</link>
-      <pubDate>Thu, 20 Dec 2018 19:29:00 +0800</pubDate>
-      
-      <guid>https://undr22.github.io/posts/quarry/</guid>
-      <description>在扑向火苗的过程中 它已经死去 而后又以光的速度复活</description>
-    </item>
-    
-    <item>
-      <title>再开</title>
-      <link>https://undr22.github.io/posts/reopen/</link>
-      <pubDate>Fri, 16 Nov 2018 13:13:00 +0800</pubDate>
-      
-      <guid>https://undr22.github.io/posts/reopen/</guid>
-      <description>无论如何我也想不到会以这样的开篇重新开始写博客…… 在建立 qing4132@Farbox 我就想过，关于那一段恋情的事，我要写一个小小的三部曲。 《给 XXX》和《第二天》算是</description>
-    </item>
-    
-    <item>
-      <title>再谈爱情</title>
-      <link>https://undr22.github.io/posts/about-love/</link>
-      <pubDate>Thu, 15 Nov 2018 02:02:00 +0800</pubDate>
-      
-      <guid>https://undr22.github.io/posts/about-love/</guid>
-      <description>连续做了一个月的梦。 月亮升起。梦境升起。月亮落下。 房屋交错，树影蔽动。 这里的时间不太对，我很喜欢。 二十点十一，或二十点十二，故事开始， 并结束</description>
     </item>
     
   </channel>
