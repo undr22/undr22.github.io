@@ -119,6 +119,10 @@ h6 {
     font-size: .9rem;
 }
 
+p {
+    text-indent: 2em;
+}
+
 .align-center {
     text-align: center;
 }
