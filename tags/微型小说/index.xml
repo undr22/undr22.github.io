@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Sun, 25 Aug 2019 01:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 22:42:22 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/tags/%E5%BE%AE%E5%9E%8B%E5%B0%8F%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>笼中鸟</title>
+      <link>https://undr22.github.io/posts/bird-in-the-cage/</link>
+      <pubDate>Thu, 30 Jul 2020 22:42:22 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/bird-in-the-cage/</guid>
+      <description>「有一只被关在笼子里的鸟」，她在稿纸上写。</description>
+    </item>
     
     <item>
       <title>单程票</title>
