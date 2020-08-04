@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Sat, 04 Jul 2020 00:28:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 22:36:04 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effective Life</title>
+      <link>https://undr22.github.io/posts/effective-life/</link>
+      <pubDate>Tue, 04 Aug 2020 22:36:04 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/effective-life/</guid>
+      <description>如果你读到了这篇博文…… 如你所想，这篇文章的写作形式正是源自 Scott Meyers 那本著名的《Effective C++》（以下简称《E》），受此启发，我一直以来都是模糊不清的「尝试列一些条款来帮助自我约束」的想法才得以逐渐成型，在此向 Meyers 致以毫不吝啬的谢意，并且也向所有使用 C++ 编程的人推荐《E》。</description>
+    </item>
     
     <item>
       <title>好事多磨</title>
