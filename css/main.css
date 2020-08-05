@@ -393,7 +393,7 @@ table th, table td {
     border: 1px solid #dddddd;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     body {
         padding: 20px;
     }
