@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 23:51:24 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 00:59:15 +0800</lastBuildDate>
     
 	<atom:link href="https://undr22.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>涅槃</title>
+      <link>https://undr22.github.io/posts/nirvana/</link>
+      <pubDate>Fri, 25 Sep 2020 00:59:15 +0800</pubDate>
+      
+      <guid>https://undr22.github.io/posts/nirvana/</guid>
+      <description>吊死在一棵树上</description>
+    </item>
     
     <item>
       <title>抽象的意义和语言的边界</title>
