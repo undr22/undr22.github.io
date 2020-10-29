@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 05:23:13 +0800</lastBuildDate><atom:link href="https://undr22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2019 17:22:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>日落</title>
       <link>https://undr22.github.io/posts/sunset/</link>
