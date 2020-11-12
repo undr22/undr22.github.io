@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 23:51:24 +0800</lastBuildDate>
-    
-	<atom:link href="https://undr22.github.io/tags/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Sep 2020 23:51:24 +0800</lastBuildDate><atom:link href="https://undr22.github.io/tags/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>抽象的意义和语言的边界</title>
       <link>https://undr22.github.io/posts/the-meaning-of-abstract-and-the-border-of-language/</link>
@@ -36,7 +32,8 @@
       <pubDate>Thu, 05 Mar 2020 23:14:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/reading-in-the-digital-age/</guid>
-      <description>其实自电子阅读开始流行起来时我就一直在尝试为纸质书籍辩护：</description>
+      <description>其实自电子阅读开始流行起来时我就一直在尝试为纸质书籍辩护：
+初中时我说在 mp3 上看书效率太低；高中时我说纸质书独具承载在（树的）生命之上的厚重感；大学时我又觉得 Kindle 只能承担单向线性阅读的功能——它没法自然地快速寻找到某一个范围反复阅读。</description>
     </item>
     
     <item>
@@ -54,7 +51,8 @@
       <pubDate>Sun, 29 Oct 2017 22:05:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/the-mirage-and-the-ultimate-question/</guid>
-      <description>我在很小的时候就想过一个这种奇怪的问题了：「我到底是不是特殊的？」在高中接触过《漂木》之后又增加了一个终极思考：生命的无常与宿命的无奈。我当时认为我的人生经历还不足以认知洛夫老爷子提出的问题，于是就搁置了下来。但是终极问题的概念却已经慢慢成形：它们难以自解，又无人求问。在我看来这些东西直接导致了大部分（不分年龄段的）人的迷茫，解开任意一个就能把自己的脑子开拓一个档次。但大部分人甚至不能把这些问题归纳整理出来，于是终极问题（的解）直接把人按思维的发达与否分成了三六九等。</description>
+      <description>我在很小的时候就想过一个这种奇怪的问题了：「我到底是不是特殊的？」在高中接触过《漂木》之后又增加了一个终极思考：生命的无常与宿命的无奈。我当时认为我的人生经历还不足以认知洛夫老爷子提出的问题，于是就搁置了下来。但是终极问题的概念却已经慢慢成形：它们难以自解，又无人求问。在我看来这些东西直接导致了大部分（不分年龄段的）人的迷茫，解开任意一个就能把自己的脑子开拓一个档次。但大部分人甚至不能把这些问题归纳整理出来，于是终极问题（的解）直接把人按思维的发达与否分成了三六九等。
+对我自己来说，我找到了两个答案：**随机是世界的本质；艺术是不同形式的落差。**当然这个过程也很是艰辛，我甚至一度质疑人到底需不需要一个（或多个）「终极问题」，它代表了什么呢？我作为某个角色的终极追求吗？可生命是有限的，终极过于理想，于是这又回归到「生命的无常与宿命的无奈」。这一类问题都有着这样归一的特性，这些答案最后会不会指向同一个点呢？我根本不知道。</description>
     </item>
     
     <item>
@@ -63,7 +61,8 @@
       <pubDate>Thu, 06 Jul 2017 10:24:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/misguidance/</guid>
-      <description>我对我的一个朋友说：「我觉得你就是太容易被煽动……」</description>
+      <description>我对我的一个朋友说：「我觉得你就是太容易被煽动……」
+她立刻说：「没有啊，我觉得还好，我……」</description>
     </item>
     
     <item>
@@ -81,7 +80,8 @@
       <pubDate>Thu, 15 Jun 2017 20:54:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/1200-days-in-qin-and-innervate/</guid>
-      <description>本来「秦皇岛一千二百天」和「激活」我打算写两篇的，后来想一想也没什么好写，而且这样把题目捏在一起很好玩的样子，就决定这样合成一篇了……</description>
+      <description>本来「秦皇岛一千二百天」和「激活」我打算写两篇的，后来想一想也没什么好写，而且这样把题目捏在一起很好玩的样子，就决定这样合成一篇了……
+秦皇岛一千二百天 这个题目当然说的是大学在秦皇岛度过的四年，我没仔细算，就粗略按每年三百天来了，说实在的，对这个城市说不上喜欢吧，但毕竟待了这么久，感情还是有，海港区的好多犄角旮旯、甚至花花草草我都记得，估计以后也会想，但不会那么强烈吧。</description>
     </item>
     
   </channel>
