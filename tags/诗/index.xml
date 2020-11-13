@@ -7,15 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 00:59:15 +0800</lastBuildDate><atom:link href="https://undr22.github.io/tags/%E8%AF%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 00:59:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/tags/%E8%AF%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>涅槃</title>
       <link>https://undr22.github.io/posts/nirvana/</link>
       <pubDate>Fri, 25 Sep 2020 00:59:15 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/nirvana/</guid>
-      <description>吊死在一棵树上
-吊死在一棵不会开花、不会结果</description>
+      <description>吊死在一棵树上</description>
     </item>
     
     <item>
@@ -24,8 +27,7 @@
       <pubDate>Thu, 20 Dec 2018 19:29:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/quarry/</guid>
-      <description>在扑向火苗的过程中
-它已经死去</description>
+      <description>在扑向火苗的过程中</description>
     </item>
     
     <item>
@@ -34,8 +36,7 @@
       <pubDate>Thu, 15 Nov 2018 02:02:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/about-love/</guid>
-      <description>连续做了一个月的梦。
-月亮升起。梦境升起。月亮落下。</description>
+      <description>连续做了一个月的梦。</description>
     </item>
     
   </channel>

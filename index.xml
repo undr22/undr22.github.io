@@ -7,15 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 05:23:13 +0800</lastBuildDate><atom:link href="https://undr22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2019 17:22:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>日落</title>
       <link>https://undr22.github.io/posts/sunset/</link>
       <pubDate>Wed, 21 Oct 2020 05:23:13 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/sunset/</guid>
-      <description>热。
-酒红色的光晕压得我透不过气，那些山也东倒西歪地躺在一边。大的小的石头都一动不动，只有扭曲而上的草臭，使人无止境地口渴。</description>
+      <description>热。</description>
     </item>
     
     <item>
@@ -24,8 +27,7 @@
       <pubDate>Fri, 25 Sep 2020 00:59:15 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/nirvana/</guid>
-      <description>吊死在一棵树上
-吊死在一棵不会开花、不会结果</description>
+      <description>吊死在一棵树上</description>
     </item>
     
     <item>
@@ -52,8 +54,7 @@
       <pubDate>Sat, 04 Jul 2020 00:28:49 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/trough/</guid>
-      <description>久违地安静下来之后，连我自己都不得不感叹——原来我是一个这样细腻的人啊。
-我总是想得太多，连根本不会发生的对话都要做好几种假设，我很累了，我想体验一下什么都不顾的自在生活。把一切都抛之脑后确实很开心，但是当我假装不下去的时候，我就又是我了。</description>
+      <description>久违地安静下来之后，连我自己都不得不感叹——原来我是一个这样细腻的人啊。</description>
     </item>
     
     <item>
@@ -62,8 +63,7 @@
       <pubDate>Thu, 05 Mar 2020 23:14:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/reading-in-the-digital-age/</guid>
-      <description>其实自电子阅读开始流行起来时我就一直在尝试为纸质书籍辩护：
-初中时我说在 mp3 上看书效率太低；高中时我说纸质书独具承载在（树的）生命之上的厚重感；大学时我又觉得 Kindle 只能承担单向线性阅读的功能——它没法自然地快速寻找到某一个范围反复阅读。</description>
+      <description>其实自电子阅读开始流行起来时我就一直在尝试为纸质书籍辩护：</description>
     </item>
     
     <item>
@@ -81,8 +81,7 @@
       <pubDate>Thu, 10 Oct 2019 17:22:35 +0800</pubDate>
       
       <guid>https://undr22.github.io/about/</guid>
-      <description>本博客，或者说个人站，或者说网络文字垃圾桶……
-本垃圾桶建桶至今历经多次搬迁，用过好几个博客平台，考虑了一大堆有的没的因素（主要是免费和避免审查），最终还是决定使用 GitHub Pages：源文件用 markdown 书写，由 Hugo 生成静态页面，然后托管到 GitHub 上，还算省心。</description>
+      <description>本博客，或者说个人站，或者说网络文字垃圾桶……</description>
     </item>
     
     <item>
@@ -91,8 +90,7 @@
       <pubDate>Sun, 08 Sep 2019 23:22:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/about-manga/</guid>
-      <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。
-产生这个想法的原因是最近看了很多优秀的博客，有很多博主专业性很强又幽默风趣，而且数年如一日地在写博客，每篇都洋洋洒洒几千字，读过之后真的增长见识而且受益颇多。对比之下我简直就是个文字垃圾生产商……总之我觉得，不能再像之前一样几个月才挤出一篇八百字作文。「质」很重要，「量」也很重要。更何况我现在的「质」还远远达不到自己期待的标准。</description>
+      <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。</description>
     </item>
     
     <item>
@@ -101,8 +99,7 @@
       <pubDate>Sun, 25 Aug 2019 01:03:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/one-way-ticket/</guid>
-      <description>穿过森林后，我看到了海。
-是在远处不断升起的海，甚至成为了月亮的背景。如同发酵过般的乳黄色的月光洒向海面。有一些纤细的鸟类啄食着，它们的羽毛也是月光的颜色。</description>
+      <description>穿过森林后，我看到了海。</description>
     </item>
     
     <item>
@@ -111,8 +108,7 @@
       <pubDate>Thu, 08 Aug 2019 02:54:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/insomnia-0808/</guid>
-      <description>再见到他时，他的脸上贴满了标签。
-我本来没什么兴趣，他却要一个个捏着给我看，我也只好一边附和，一边感慨自己的好脾气。</description>
+      <description>再见到他时，他的脸上贴满了标签。</description>
     </item>
     
     <item>
@@ -121,8 +117,7 @@
       <pubDate>Tue, 09 Jul 2019 04:24:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/insomnia-0709/</guid>
-      <description>倒不如说那一天以后我就一直在失眠，我指的不光是生理上的，也有心理上的。我太累了，想好好地睡上一觉，可是一直未能如愿，而且我发现——假装休息比不休息还要累得多。
-热。热。热。</description>
+      <description>倒不如说那一天以后我就一直在失眠，我指的不光是生理上的，也有心理上的。我太累了，想好好地睡上一觉，可是一直未能如愿，而且我发现——假装休息比不休息还要累得多。</description>
     </item>
     
     <item>
@@ -131,8 +126,7 @@
       <pubDate>Thu, 06 Jun 2019 03:30:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/drinking/</guid>
-      <description>有一天我趴在地上喝水。
-至于为什么是趴在地上，我并不清楚。喝哪里的水同样不清楚。这水有没有味道，我也不清楚。</description>
+      <description>有一天我趴在地上喝水。</description>
     </item>
     
     <item>
@@ -141,8 +135,7 @@
       <pubDate>Tue, 28 May 2019 12:48:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/machine-of-affection/</guid>
-      <description>我不愿意洗头发。我妈打我。我爸打我妈。
-我不愿意我爸打我妈。我妈不愿意我不洗头发。我爸不愿意我妈打我。</description>
+      <description>我不愿意洗头发。我妈打我。我爸打我妈。</description>
     </item>
     
     <item>
@@ -160,8 +153,7 @@
       <pubDate>Thu, 20 Dec 2018 19:29:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/quarry/</guid>
-      <description>在扑向火苗的过程中
-它已经死去</description>
+      <description>在扑向火苗的过程中</description>
     </item>
     
     <item>
@@ -170,8 +162,7 @@
       <pubDate>Fri, 16 Nov 2018 13:13:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/reopen/</guid>
-      <description>无论如何我也想不到会以这样的开篇重新开始写博客……
-在建立 qing4132@Farbox 我就想过，关于那一段恋情的事，我要写一个小小的三部曲。</description>
+      <description>无论如何我也想不到会以这样的开篇重新开始写博客……</description>
     </item>
     
     <item>
@@ -180,8 +171,7 @@
       <pubDate>Thu, 15 Nov 2018 02:02:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/about-love/</guid>
-      <description>连续做了一个月的梦。
-月亮升起。梦境升起。月亮落下。</description>
+      <description>连续做了一个月的梦。</description>
     </item>
     
     <item>
@@ -199,8 +189,7 @@
       <pubDate>Wed, 14 Mar 2018 01:21:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/a-natter/</guid>
-      <description>我在北大六院住院的时候认识了一个疑似精神分裂的患者，我们住在同一间病房，同一个床位。
-这个人的想象力超乎寻常的丰富，说话时会用上各式各样的意象和修辞，而且大多数话题都非常有意思。他似乎对我能跟上他的思路表现得很开心，我也很乐于见识一下他眼中的奇妙世界，总之，我们很聊得来。</description>
+      <description>我在北大六院住院的时候认识了一个疑似精神分裂的患者，我们住在同一间病房，同一个床位。</description>
     </item>
     
     <item>
@@ -209,7 +198,7 @@
       <pubDate>Mon, 26 Feb 2018 23:07:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/fish/</guid>
-      <description>我养了一条鱼，它在我的脚本文件夹下一个名为 「blank.py」的文件里。</description>
+      <description>我养了一条鱼，它在我的脚本文件夹下一个名为 「blank.</description>
     </item>
     
     <item>
@@ -218,8 +207,7 @@
       <pubDate>Wed, 14 Feb 2018 01:42:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/weariness/</guid>
-      <description>打国道往南走，不远就是鼎盛街，鼎盛街有漂亮姑娘，住在西头往回来一点，秋天晒棒子的时候姑娘家开了个小卖铺，十八岁没读出书去，就留下来帮手，成天坐在门口按计算器，浪费了大把的时间，这是二十一年前的事。
-二十年后姑娘三十八了，早也嫁了人，孩子有出息，长相随她爹。孩子读大学放寒假回来了，跟她妈商量，啥时候瞧瞧我爸爸去吧，我爸爸好几年没看见了。姑娘抬起头，不知道她说的是哪个爸爸。亲爸爸是条好汉子，年轻时候自己瞎了眼瞧不上人家，又忍不住跟他上床，这么多年了亲爸爸对孩子好，别的没说过啥，自己对不住他，没脸见；那个爸爸头两年酒驾撞死了，孩子平时离家远，念着这事却没上过坟，她不知道咋办了。</description>
+      <description>打国道往南走，不远就是鼎盛街，鼎盛街有漂亮姑娘，住在西头往回来一点，秋天晒棒子的时候姑娘家开了个小卖铺，十八岁没读出书去，就留下来帮手，成天坐在门口按计算器，浪费了大把的时间，这是二十一年前的事。</description>
     </item>
     
     <item>
@@ -228,8 +216,7 @@
       <pubDate>Mon, 22 Jan 2018 22:26:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/dream-or-love-at-21/</guid>
-      <description>依赖梦境提供的不可控灵感来写东西大概也是闭门造车的一种表现……
-但我还是要写，我害怕遗忘，也害怕再没有机会触发。</description>
+      <description>依赖梦境提供的不可控灵感来写东西大概也是闭门造车的一种表现……</description>
     </item>
     
     <item>
@@ -238,8 +225,7 @@
       <pubDate>Fri, 01 Dec 2017 14:48:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/a-jotting/</guid>
-      <description>关于《天上谣》：其实这个辑子我很早之前就在整理了，最开始打算收一百五十首，后来慢慢地缩减，变成一百二十首、一百首、直到现在的三十三首；录完后做了一本电子书，于是懒得再修改，里面的内容就原封不动地贴到这边来了；最开始的计划中还有选诗的简译和点评，仔细考虑了一下，没有做，可能以后会写吧。
-归置完之后长舒了一口气：也算有个结果。我干了一半「姑且」放着的东西可太多了。</description>
+      <description>关于《天上谣》：其实这个辑子我很早之前就在整理了，最开始打算收一百五十首，后来慢慢地缩减，变成一百二十首、一百首、直到现在的三十三首；录完后做了一本电子书，于是懒得再修改，里面的内容就原封不动地贴到这边来了；最开始的计划中还有选诗的简译和点评，仔细考虑了一下，没有做，可能以后会写吧。</description>
     </item>
     
     <item>
@@ -257,8 +243,7 @@
       <pubDate>Sun, 29 Oct 2017 22:05:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/the-mirage-and-the-ultimate-question/</guid>
-      <description>我在很小的时候就想过一个这种奇怪的问题了：「我到底是不是特殊的？」在高中接触过《漂木》之后又增加了一个终极思考：生命的无常与宿命的无奈。我当时认为我的人生经历还不足以认知洛夫老爷子提出的问题，于是就搁置了下来。但是终极问题的概念却已经慢慢成形：它们难以自解，又无人求问。在我看来这些东西直接导致了大部分（不分年龄段的）人的迷茫，解开任意一个就能把自己的脑子开拓一个档次。但大部分人甚至不能把这些问题归纳整理出来，于是终极问题（的解）直接把人按思维的发达与否分成了三六九等。
-对我自己来说，我找到了两个答案：**随机是世界的本质；艺术是不同形式的落差。**当然这个过程也很是艰辛，我甚至一度质疑人到底需不需要一个（或多个）「终极问题」，它代表了什么呢？我作为某个角色的终极追求吗？可生命是有限的，终极过于理想，于是这又回归到「生命的无常与宿命的无奈」。这一类问题都有着这样归一的特性，这些答案最后会不会指向同一个点呢？我根本不知道。</description>
+      <description>我在很小的时候就想过一个这种奇怪的问题了：「我到底是不是特殊的？」在高中接触过《漂木》之后又增加了一个终极思考：生命的无常与宿命的无奈。我当时认为我的人生经历还不足以认知洛夫老爷子提出的问题，于是就搁置了下来。但是终极问题的概念却已经慢慢成形：它们难以自解，又无人求问。在我看来这些东西直接导致了大部分（不分年龄段的）人的迷茫，解开任意一个就能把自己的脑子开拓一个档次。但大部分人甚至不能把这些问题归纳整理出来，于是终极问题（的解）直接把人按思维的发达与否分成了三六九等。</description>
     </item>
     
     <item>
@@ -276,8 +261,7 @@
       <pubDate>Thu, 14 Sep 2017 15:49:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/rain/</guid>
-      <description>好久没在这写东西了……
-想了想标题，脑袋里第一个出现的字就是「雨」，我对这个意象并不抱有什么特殊的感情，但它却在我的笔下频繁出现，我不知道为什么，可能是我见识得少，没什么能拿来写的东西。</description>
+      <description>好久没在这写东西了……</description>
     </item>
     
     <item>
@@ -295,8 +279,7 @@
       <pubDate>Sun, 06 Aug 2017 23:38:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/homecoming/</guid>
-      <description>这草原宽广得很，三面无边际，一面是山。翻过山去，有十几个破屋子，三面是乱坟，一面躺着一条渴死的河。他牵了村里唯一的一匹马，抛下了老爷子，连夜逃离了故乡。
-来到草上，他下了马，人跪下，马也跪下。马没有了嘶咽的力气，马吃草，人也吃草。他匍匐在地上，侧着脸，仔细看着草叶上的露珠，虫子，阳光下飞舞的尘土，他觉得自己什么都忘了，站起来，走了整整两夜。</description>
+      <description>这草原宽广得很，三面无边际，一面是山。翻过山去，有十几个破屋子，三面是乱坟，一面躺着一条渴死的河。他牵了村里唯一的一匹马，抛下了老爷子，连夜逃离了故乡。</description>
     </item>
     
     <item>
@@ -305,8 +288,7 @@
       <pubDate>Fri, 04 Aug 2017 19:49:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/mumbles/</guid>
-      <description>去上海待了一小段时间，什么都没干又回来了。
-工作的问题倒没有特别担心；来回的路上总是想写点东西，都是小句子，不成篇章；狠下心来换了台新电脑，刚到一两天，感觉很不错；身体还是处在病痛的状态，反而心情倒没有之前那么低落。</description>
+      <description>去上海待了一小段时间，什么都没干又回来了。</description>
     </item>
     
     <item>
@@ -315,8 +297,7 @@
       <pubDate>Thu, 06 Jul 2017 10:24:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/misguidance/</guid>
-      <description>我对我的一个朋友说：「我觉得你就是太容易被煽动……」
-她立刻说：「没有啊，我觉得还好，我……」</description>
+      <description>我对我的一个朋友说：「我觉得你就是太容易被煽动……」</description>
     </item>
     
     <item>
@@ -325,8 +306,7 @@
       <pubDate>Thu, 29 Jun 2017 21:30:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/graduation/</guid>
-      <description>关于毕业的东西删了又写写了又删，草稿打了几篇也没一个成形的，最初的想法是记录一下在外面坐着的那天晚上，然后随便舒舒情，毕竟情景特殊，大家都在、记忆大多可以共享，而且联带当时的情绪比较容易煽动。后来写了几句开了个头又觉得不太好，就丢到一边了。
-另一个想法是直接拿陈升的《狗脸的岁月》开一篇，歌很好听，写起来却不尽如人意，也就草草放置了。</description>
+      <description>关于毕业的东西删了又写写了又删，草稿打了几篇也没一个成形的，最初的想法是记录一下在外面坐着的那天晚上，然后随便舒舒情，毕竟情景特殊，大家都在、记忆大多可以共享，而且联带当时的情绪比较容易煽动。后来写了几句开了个头又觉得不太好，就丢到一边了。</description>
     </item>
     
     <item>
@@ -344,8 +324,7 @@
       <pubDate>Fri, 16 Jun 2017 09:45:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/fake-readme/</guid>
-      <description>昨天把这个博客开放给第一个人了，于是来写这篇「来访须知」，希望将来开放给更多人后大家能尽量遵守。
-首先，这个博客并不是像形式上那样随便写写，事实上读过几篇之后就能了解这些东西带有相当的针对性，去除无意的部分，我本人也会对某些类型的人具有排斥心理，所以才只是将这个博客小范围地公开，希望大家不要分享这里的任何内容。</description>
+      <description>昨天把这个博客开放给第一个人了，于是来写这篇「来访须知」，希望将来开放给更多人后大家能尽量遵守。</description>
     </item>
     
     <item>
@@ -354,8 +333,7 @@
       <pubDate>Thu, 15 Jun 2017 20:54:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/1200-days-in-qin-and-innervate/</guid>
-      <description>本来「秦皇岛一千二百天」和「激活」我打算写两篇的，后来想一想也没什么好写，而且这样把题目捏在一起很好玩的样子，就决定这样合成一篇了……
-秦皇岛一千二百天 这个题目当然说的是大学在秦皇岛度过的四年，我没仔细算，就粗略按每年三百天来了，说实在的，对这个城市说不上喜欢吧，但毕竟待了这么久，感情还是有，海港区的好多犄角旮旯、甚至花花草草我都记得，估计以后也会想，但不会那么强烈吧。</description>
+      <description>本来「秦皇岛一千二百天」和「激活」我打算写两篇的，后来想一想也没什么好写，而且这样把题目捏在一起很好玩的样子，就决定这样合成一篇了……</description>
     </item>
     
     <item>
@@ -364,8 +342,7 @@
       <pubDate>Mon, 12 Jun 2017 21:12:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/the-14th-day/</guid>
-      <description>死亡有多可怕？
-这个问题这两天一直在我的脑子里游荡，我曾经觉得自己会是大无畏的那一类人，为了某些事情可以什么都不顾，但是现在我在重新考虑。</description>
+      <description>死亡有多可怕？</description>
     </item>
     
     <item>
@@ -374,8 +351,7 @@
       <pubDate>Sat, 10 Jun 2017 12:17:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/the-12th-day/</guid>
-      <description>其实我也不知道是多少天，刚才去日历里数了一下好像是第十二天……
-那这样的话就是和上次隔了十天，这十天里发生了很多事，但是没记住多少，总的来说就是很普通吧，懒懒散散懒懒散散，只不过是处在这个快毕业的时间段里气氛比较奇怪罢了。</description>
+      <description>其实我也不知道是多少天，刚才去日历里数了一下好像是第十二天……</description>
     </item>
     
     <item>
@@ -384,8 +360,7 @@
       <pubDate>Wed, 31 May 2017 10:59:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/the-2nd-day/</guid>
-      <description>今天早上醒来想了一下昨天写的东西，感情都是真的，但我果然是容易因为一时冲动就开始胡乱瞎写……
-对 XXX，冷静下来之后依旧和昨天一样，「并没有觉得我对你的感情有多么强烈，也不知道是不是过于用力地在写了」，但昨天是一个小的爆发，而且是由连续几天的梦境触发的（你看我就是这么不靠谱）。过了一天我觉得我又能用轻松的语气讲话了，就像再见到你的时候那样。事实上感情没什么变化，喜欢还是喜欢，想还是想，但是表达的形式不同吧，那样的形式更激烈、更能让你感受得到，这样的形式更平淡、更难以察觉。</description>
+      <description>今天早上醒来想了一下昨天写的东西，感情都是真的，但我果然是容易因为一时冲动就开始胡乱瞎写……</description>
     </item>
     
     <item>

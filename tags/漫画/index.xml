@@ -7,15 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Copyright 2017-2020 Undr22</copyright>
-    <lastBuildDate>Sun, 08 Sep 2019 23:22:00 +0800</lastBuildDate><atom:link href="https://undr22.github.io/tags/%E6%BC%AB%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2019 23:22:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://undr22.github.io/tags/%E6%BC%AB%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>漫画知识扫盲</title>
       <link>https://undr22.github.io/posts/about-manga/</link>
       <pubDate>Sun, 08 Sep 2019 23:22:00 +0800</pubDate>
       
       <guid>https://undr22.github.io/posts/about-manga/</guid>
-      <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。
-产生这个想法的原因是最近看了很多优秀的博客，有很多博主专业性很强又幽默风趣，而且数年如一日地在写博客，每篇都洋洋洒洒几千字，读过之后真的增长见识而且受益颇多。对比之下我简直就是个文字垃圾生产商……总之我觉得，不能再像之前一样几个月才挤出一篇八百字作文。「质」很重要，「量」也很重要。更何况我现在的「质」还远远达不到自己期待的标准。</description>
+      <description>我决定开始逐渐地在这个博客上安利一些漫画，所以来写一篇关于漫画的扫盲文章。</description>
     </item>
     
   </channel>
