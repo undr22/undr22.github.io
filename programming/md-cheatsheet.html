@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <title>the Flea Markdown Cheatsheet</title>
+    <meta charset="utf-8" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/static/icons8-flea-material-outlined-16.png"
+      sizes="16x16"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/static/icons8-flea-material-outlined-32.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/static/icons8-flea-material-outlined-96.png"
+      sizes="96x96"
+    />
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Undr22">
+    <!-- <meta name="description" content=""> -->
+
+    <script
+      type="text/javascript"
+      async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"
+    ></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true
+        }
+      });
+    </script>
+
+    <link rel="stylesheet" href="/static/prism-one-dark.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h2>Undr22 的新博客</h2>
+      <a href="/">主页</a>
+<a href="/writing">写字</a>
+<a href="/programming">编程</a>
+
+    </header>
+    <main><h1>the Flea Markdown Cheatsheet</h1><span class="date"><p>2023-08-10</p></span><p>This page will list all the syntax supported by Flea and some tips. May you be able to focus on your writing after reading it!</p>
+<hr />
+<h1>These are headings.</h1>
+<h2>These are headings.</h2>
+<h3>These are headings.</h3>
+<h4>These are headings.</h4>
+<h5>These are headings.</h5>
+<h6>These are headings.</h6>
+<pre><code># These are headings.
+## These are headings.
+### These are headings.
+#### These are headings.
+##### These are headings.
+###### These are headings.
+</code></pre>
+<p>Images (automatically centered)! And footnotes<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>! And links in footnotes!</p>
+<p><img src="/static/icons8-flea-material-outlined-96.png" alt="flea icon by icons8" /></p>
+<pre><code>Images (automatically centered)! And footnotes[^1]! And links in footnotes!
+
+![flea icon by icons8](/static/icons8-flea-material-outlined-96.png)
+</code></pre>
+<p>The sentences... just the sentences. However, you can use <strong>bold</strong>, <em>italics</em>, and <code>inline code blocks</code> .And you can <em><strong>nest them</strong></em> however you like.</p>
+<pre><code>The sentences... just the sentences. However, you can use **bold**, _italics_, and `inline code blocks` .And you can _**nest them**_ however you like.
+</code></pre>
+<p><em><strong>Tips: You can create a blank line by writing a pair of backticks enclosing a space.</strong></em></p>
+<p>And code blocks:</p>
+<pre><code class="language-python">def calculate_square(x):
+    return x ** 2
+
+num = 5
+result = calculate_square(num)
+print(f&quot;The square of {num} is {result}&quot;)
+</code></pre>
+<pre><code>And code blocks:
+
+```python
+def calculate_square(x):
+    return x ** 2
+
+num = 5
+result = calculate_square(num)
+print(f&quot;The square of {num} is {result}&quot;)
+```
+</code></pre>
+<p><em><strong>Tips: If you want to nest a code block wrapped in a pair of 3 backticks within another code block, simply enclose it with a pair of 4 backticks.</strong></em></p>
+<p>Blockquotes and strikethrough:</p>
+<blockquote>
+<p>Here's the new project by me</p>
+<p>a tiny static site generator called 'flea'</p>
+<p>converts your notes and thought</p>
+<p><del>to something red and juicy</del></p>
+<blockquote>
+<p>to something <del>blue and juicy</del></p>
+<blockquote>
+<p><del>whatever</del></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<pre><code>Blockquotes and strikethrough:
+
+&gt; Here's the new project by me
+&gt;
+&gt; a tiny static site generator called 'flea'
+&gt;
+&gt; converts your notes and thought
+&gt;
+&gt; ~~to something red and juicy~~
+&gt;
+&gt; &gt; to something ~~blue and juicy~~
+&gt; &gt;
+&gt; &gt; &gt; ~~whatever~~
+</code></pre>
+<p>You can also write inline equations, like $E = mc^2$, and standalone equations：</p>
+<p>$$\frac{\Delta \lambda}{\lambda} = \frac{h}{p} \left(1 + \frac{h}{4 \pi m c \lambda} \right) B$$</p>
+<pre><code>You can also write inline equations, like $E = mc^2$, and standalone equations：
+
+$$\frac{\Delta \lambda}{\lambda} = \frac{h}{p} \left(1 + \frac{h}{4 \pi m c \lambda} \right) B$$
+</code></pre>
+<p>Lists and tables:</p>
+<ol>
+<li>Go shopping<ul>
+<li>eggs</li>
+<li>meat</li>
+<li>lenses<ul>
+<li>Sony FE 24-70mm F2.8 GM II</li>
+<li>Canon RF 100-300mm F2.8 L</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Eat</li>
+</ol>
+<p>List numbering doesn't have to start from 1：</p>
+<ol start="23">
+<li>Jump</li>
+<li>Stop jumping</li>
+</ol>
+<ul>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled checked/>Go shopping</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled checked/>Eat<ul>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled checked/>eggs</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled checked/>meat</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled/>lenses</li>
+</ul>
+</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" type="checkbox" disabled/>Sleep</li>
+</ul>
+<table>
+<thead>
+<tr>
+  <th style="text-align:left">Name</th>
+  <th style="text-align:right">Nickname</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:left">Ant</td>
+  <td style="text-align:right">Nickant</td>
+</tr>
+<tr>
+  <td style="text-align:left">Duck</td>
+  <td style="text-align:right">Nickduck</td>
+</tr>
+<tr>
+  <td style="text-align:left">Flea</td>
+  <td style="text-align:right">Netflix I bet</td>
+</tr>
+</tbody>
+</table>
+<pre><code>Lists and tables:
+
+1. Go shopping
+   - eggs
+   - meat
+   - lenses
+     - Sony FE 24-70mm F2.8 GM II
+     - Canon RF 100-300mm F2.8 L
+2. Eat
+
+List numbering doesn't have to start from 1：
+
+23. Jump
+24. Stop jumping
+
+- [x] Go shopping
+- [x] Eat
+  - [x] eggs
+  - [x] meat
+  - [ ] lenses
+- [ ] Sleep
+
+| Name |      Nickname |
+| :--- | ------------: |
+| Ant  |       Nickant |
+| Duck |      Nickduck |
+| Flea | Netflix I bet |
+</code></pre>
+<p>Finally, divider and footnotes (again):</p>
+<hr />
+<pre><code>Finally, divider and footnotes (again):
+
+---
+
+[^1]: [Flea](https://icons8.com/icon/F2ynpEa6aUZd/flea) icon by [Icons8](https://icons8.com)
+</code></pre>
+<section class="footnotes">
+<ol>
+<li id="fn-1"><p><a href="https://icons8.com/icon/F2ynpEa6aUZd/flea">Flea</a> icon by <a href="https://icons8.com">Icons8</a><a href="#fnref-1" class="footnote">&#8617;</a></p></li>
+</ol>
+</section>
+<!-- list --><!-- tags --></main>
+    <footer>使用 <a href="https://github.com/undr22/flea">跳蚤</a> 生成</footer>
+  </body>
+</html>

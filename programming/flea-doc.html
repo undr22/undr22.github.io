@@ -72,7 +72,7 @@
 python flea.py path/to/content_folder
 </code></pre>
 <h2>The Manual That Nobody Loves to Read</h2>
-<p>As you're aware, Flea serves as a static website generator. While its speed isn't confirmed, it boasts both minimalistic and user-friendly attributes. Functioning seamlessly, it extracts content from Markdown files situated within a designated folder following a distinct structure. Subsequently, the generated output finds its place in the &quot;flea-site&quot; directory, located within the script's root folder. This design philosophy stems from my desire to prioritize writing over intricate configuration or extensive customization options. And that's the entirety of its functionality – succinct yet effective.</p>
+<p>As you're aware, Flea serves as a static website generator. While its speed isn't confirmed, it boasts both minimalistic and user-friendly attributes. Functioning seamlessly, it extracts content from Markdown files situated within a designated folder following a distinct structure. Subsequently, the generated output finds its place in the &quot;flea-site&quot; directory, located within the <code>flea</code> folder. This design philosophy stems from my desire to prioritize writing over intricate configuration or extensive customization options. And that's the entirety of its functionality – succinct yet effective.</p>
 <p>The source folder, serving as the content repository, should consist of at least the following three files or folders: an <code>index.md</code> serving as the main page's content; a <code>config.json</code> file for website configuration (don't worry, there are just five customizable parameters in total); and a folder named <code>imgs</code> intended to house all the images used within the website.</p>
 <p>Feel free to toss in any other folders and Markdown files under the content directory (just avoid naming them &quot;imgs&quot; and &quot;index.md&quot;). Flea will take care of structuring your website automatically. It creates a global navigation bar based on the order of <code>index.md</code>, sub-folders, and other Markdown files. Here's an example of the typical structure:</p>
 <pre><code>.
@@ -104,9 +104,9 @@ python flea.py path/to/content_folder
 <p>Nonetheless, you have the option to include an <code>index.md</code> within an inner folder. This allows you to provide details about the folder. Unlike other files, this <code>index.md</code> won't be visible in the directory list. Instead, its content is directly read and displayed before the directory listing.</p>
 <h3>Markdowns</h3>
 <p>Flea comprehensively supports all prevalent Markdown syntax, encompassing essentials like bold, italics, strikethrough, images (automatically centered), quotes, code blocks, lists, tables, footnotes, and more. Nonetheless, it doesn't natively handle direct HTML statements. You might find <a href="/programming/md-cheatsheet.html">my Markdown cheatsheet</a> helpful for quick reference.</p>
-<p>At the beginning of your Markdown file, you have the ability to designate three types of information: &quot;title,&quot; &quot;date,&quot; and &quot;tags.&quot; These specifics are interpreted as metadata and are presented in a distinctive manner, contributing to the structuring of your page's layout. The syntax is as follows:</p>
+<p>In the beginning of a Markdown file, you can use YAML syntax to include three types of information: &quot;title&quot;, &quot;date&quot;, and &quot;tags&quot;. These specific details are treated as metadata and are displayed in a distinct manner, contributing to the layout of your page. The syntax looks like this:</p>
 <pre><code>---
-title: &quot;the Flea Manual&quot;
+title: the Flea Manual
 date: 2023-08-10
 tags: [flea, doc, animal]
 ---
@@ -114,6 +114,8 @@ tags: [flea, doc, animal]
 <p><em>Note: All <code>index.md</code> files do not support metadata.</em></p>
 <h3>Others</h3>
 <p>The default 404 page will solely feature a primary &quot;404&quot; heading. If you wish to personalize the 404 page, you can create a <code>404.md</code> within the content folder. <em>This file does not support metadata either.</em></p>
+<hr />
+<p><a href="https://icons8.com/icon/F2ynpEa6aUZd/flea">Flea</a> icon by <a href="https://icons8.com">Icons8</a></p>
 <!-- list --><!-- tags --></main>
     <footer>使用 <a href="https://github.com/undr22/flea">跳蚤</a> 生成</footer>
   </body>
