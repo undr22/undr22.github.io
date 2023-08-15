@@ -1,61 +1,25 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  <head>
-    <title>the Flea Manual</title>
-    <meta charset="utf-8" />
-    <link
-      rel="icon"
-      type="image/png"
-      href="/static/icons8-flea-material-outlined-16.png"
-      sizes="16x16"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="/static/icons8-flea-material-outlined-32.png"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="/static/icons8-flea-material-outlined-96.png"
-      sizes="96x96"
-    />
-    <link rel="stylesheet" type="text/css" href="/static/style.css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Undr22">
-    <!-- <meta name="description" content=""> -->
-
-    <script
-      type="text/javascript"
-      async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"
-    ></script>
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [['$', '$']],
-          displayMath: [['$$', '$$']],
-          processEscapes: true
-        }
-      });
-    </script>
-
-    <link rel="stylesheet" href="/static/prism-one-dark.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
-  </head>
-
-  <body>
-    <header>
-      <h2>Undr22 的新博客</h2>
-      <a href="/">主页</a>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- flea-description -->
+<meta name="author" content="Undr22">
+<link rel="icon" type="image/png" href="/static/flea-favicon-16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/static/flea-favicon-32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/static/flea-favicon-96.png" sizes="96x96" />
+<link rel="stylesheet" type="text/css" href="/static/flea-style.css" />
+<title>the Flea Manual</title>
+</head>
+<body>
+<header>
+<h2>Undr22 的新博客</h2>
+<a href="/">主页</a>
 <a href="/writing">写字</a>
 <a href="/programming">编程</a>
 <a href="/photographing">拍照</a>
-
-    </header>
-    <main><h1>the Flea Manual</h1><span class="date"><p>2023-08-10</p></span><p><img src="/static/icons8-flea-material-outlined-96.png" alt="flea icon by icons8" /></p>
+</header>
+<main><h1>the Flea Manual</h1><span class="date"><p>2023-08-10</p></span><p><img src="/static/flea-favicon-96.png" alt="flea icon by icons8" /></p>
 <h3>TLDR</h3>
 <pre><code>.
 ├── index.md
@@ -70,7 +34,7 @@
 <p>Organize your directory as illustrated above: Ensure you have <code>index.md</code>, <code>config.json</code> and an <code>imgs</code> folder (even if they are empty).</p>
 <p>Then, go to the <code>flea</code> folder and run these commands:</p>
 <pre><code class="language-shell">pip install -r requirements.txt
-python flea.py path/to/content_folder
+python flea.py
 </code></pre>
 <h2>The Manual That Nobody Loves to Read</h2>
 <p>As you're aware, Flea serves as a static website generator. While its speed isn't confirmed, it boasts both minimalistic and user-friendly attributes. Functioning seamlessly, it extracts content from Markdown files situated within a designated folder following a distinct structure. Subsequently, the generated output finds its place in the &quot;flea-site&quot; directory, located within the <code>flea</code> folder. This design philosophy stems from my desire to prioritize writing over intricate configuration or extensive customization options. And that's the entirety of its functionality – succinct yet effective.</p>
@@ -117,7 +81,5 @@ tags: [flea, doc, animal]
 <p>The default 404 page will solely feature a primary &quot;404&quot; heading. If you wish to personalize the 404 page, you can create a <code>404.md</code> within the content folder. <em>This file does not support metadata either.</em></p>
 <hr />
 <p><a href="https://icons8.com/icon/F2ynpEa6aUZd/flea">Flea</a> icon by <a href="https://icons8.com">Icons8</a></p>
-<!-- list --><!-- tags --></main>
-    <footer>使用 <a href="https://github.com/undr22/flea">跳蚤</a> 生成</footer>
-  </body>
-</html>
+<!-- flea-list --><!-- flea-tags --></main>
+<footer>使用 <a href="https://github.com/undr22/flea">跳蚤</a> 生成</footer></body></html>
